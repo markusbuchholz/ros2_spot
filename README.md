@@ -5,5 +5,5 @@
 
 
 
-## Referances
+## References
 - [Boston Dynamics AI Institute - Spot](https://github.com/bdaiinstitute/spot_ros2)
